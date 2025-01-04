@@ -1,2 +1,2 @@
-# Fisch-Script
-A script for roblox "Fisch"
+# Fisch-Script 🐟
+A script for roblox "Fisch" 🎣
